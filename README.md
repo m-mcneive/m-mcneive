@@ -1,5 +1,7 @@
 <div align=center>
   <h1>Hi, I'm Matt</h1>
+</div>
+<div align=center>
   <div id="badges" >
     <a href="https://www.linkedin.com/in/matt-mcneive-875a20149/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,7 +13,12 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=m-mcneive&style=flat-square&color=blue" alt=""/>
+  <!--<img src="https://komarev.com/ghpvc/?username=m-mcneive&style=flat-square&color=blue" alt=""/>-->
+</div>
+
+<div>
+  <h3>About Me:</h3>
+  <p>I am a software developer working in the financial industry.</p>
 </div>
 
 <h1 align=center>My Skills</h1>
@@ -42,5 +49,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" **alt="Kafka" width="80" height="80"/>&nbsp;
 </div>
 
-#test
+
 
