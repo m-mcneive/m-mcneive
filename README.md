@@ -22,10 +22,10 @@
 
 <div align=center>
   <a href="https://github.com/m-mcneive/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-mcneive&show_icons=true&theme=tokyonigh" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-mcneive&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/m-mcneive/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mcneive&hide_progress=false" />
+    <img height=197px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mcneive&layout=compact&theme=tokyonight" />
   </a>
 </div>
 
